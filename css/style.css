@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    text-align: left;
+}
+
+h1 {
+    background-color:lightblue;
+    /* padding-left: 50px; */
+    text-align: center;
+}
+.description-div{
+    font-size: larger;
+    text-align: center;
+    margin: 1em 0em 1.5em 0em;
+}
+
+label {
+    display: inline;
+}
+
+p {
+    margin: 5px;
+    padding: 0;
+    display: inline;
+}
+.changes{
+    margin-left: 10px;
+}
+.buttons{
+    padding: 1em;
+    margin: 1em;
+}
+
+button {
+
+    /* background-color:lightblue; */
+    border: 1 px solid black;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+    transition-duration: 0.5s;
+    cursor: pointer;
+    border-radius: 10px;
+    font-size: large;
+
+}
+
+button:hover {
+    background-color: lightblue;
+    color: black;
+}
+.btn:hover{
+    background-color:lightblue;
+}
+
+.btn {
+    /* background-color: #00e1ff; */
+    border: 2px solid rgb(7, 178, 234);
+}
+
+button {
+    margin-top: 10px;
+}
+
+.abc {
+    color: black;
+}
+
+#para {
+    margin-left: 75px;
+}
+
+#name {
+    margin-left: 57px;
+}
+
+
+#email {
+    margin-left: 50px;
+}
+
+.table-responsive{
+    background-color:lightblue;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.table{
+    width: 100%;
+}
